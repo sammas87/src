@@ -1,7 +1,7 @@
 '''
 Created on 12.09.2015
 
-@author: schneidersmatthias
+@author: schneidersmatthiaserwefwe
 '''
 import dataObject as dO
 import src.impl.control.getPortsSerial as getPortsSerial
