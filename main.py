@@ -1,5 +1,7 @@
 import sys, os
 pwd=os.getcwd()
+
+# todo: clean dead code
 # sys.path.insert(0, pwd+'\lib\NUMPY64BIT')
 # sys.path.insert(0, pwd+'\lib\PYGAME')
 sys.path.insert(0, pwd+'\lib\PGU')
